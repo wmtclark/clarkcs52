@@ -1,0 +1,17 @@
+{
+  "name": "SA3",
+  "version": "1.0.0",
+  "description": "New yarn project for SA3",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": "https://github.com/dartmouth-cs52-20X/starterpack-wmtclark.git",
+  "author": "Thomas Clark <thomas.w.clark.22@darmtouth.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
